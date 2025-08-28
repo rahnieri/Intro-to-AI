@@ -1,4 +1,4 @@
-#Author: Tj Tyson, Date: Aug 28, 2025; Purpose: Test similar linear regression
+#Author: Rahnie Riggins, Date: Aug 28, 2025; Purpose: Test similar linear regression
 
 # Get some dummy dataset
 cars <- mtcars
